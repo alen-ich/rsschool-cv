@@ -42,7 +42,7 @@ A graduate from Nazarbayev University with strong communication skills, engineer
 ---
 ### Additional Education
 **Kolesa Upgrade Frontend, Almaty | September, 2021 - November, 2021**
-* Developed the frontend of the testing online-shop using HTML, CSS, JavaScript, Vue.js, Vuex, Vue Router.
+* Developed the frontend of the online-shop using HTML, CSS, JavaScript, Vue.js, Vuex, Vue Router.
 
 ---
 ### Skills 
@@ -54,6 +54,16 @@ A graduate from Nazarbayev University with strong communication skills, engineer
 * **Git**
 * **Figma**
 
+
+---
 ### Languages
 * **English** - C1
 * **Russian**
+
+
+---
+### Projects
+* [Online-shop (interview project)](https://github.com/Alen-Ichshanov/Test-Work-Market)
+    + Developed the frontend of the online shop for the interview using HTML, CSS, JavaScript, Vue.js, Vuex, Vue Router
+* [Online-shop (study project)](https://github.com/Alen-Ichshanov/Kolesa-Upgrade-FE-2021-Vue)
+    + Developed the frontend of the online shop during the study using HTML, CSS, JavaScript, Vue.js, Vuex, Vue Router 
