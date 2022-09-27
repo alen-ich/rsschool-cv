@@ -43,3 +43,17 @@ A graduate from Nazarbayev University with strong communication skills, engineer
 ### Additional Education
 **Kolesa Upgrade Frontend, Almaty | September, 2021 - November, 2021**
 * Developed the frontend of the testing online-shop using HTML, CSS, JavaScript, Vue.js, Vuex, Vue Router.
+
+---
+### Skills 
+* **HTML**
+* **CSS** (SCSS)
+* **JavaScript** (ES6)
+* **Vue.js** (Vuex, Vue Router, Nuxt.js, Pinia, Vuetify)
+* **AVA**
+* **Git**
+* **Figma**
+
+### Languages
+* **English** - C1
+* **Russian**
