@@ -26,3 +26,9 @@
 ### About me
 A graduate from Nazarbayev University with strong communication skills, engineering background, strong willingness to learn and develop hard and soft skills. Seeking a junior position as frontend developer to expand my knowledge in the frontend development field and obtain relevant experience in strong companies.
 
+---
+### Experience
+**Junior frontend developer | Adamar Solutions | January, 2022 - Present**
+* Developed the frontend of the CRM  for the network of internet cafes using the HTML, CSS, JavaScript, Vue.js. 
+* Developed the frontend of the SSR web-application for the school, which is dedicated to be used by students and teachers of the school, using the HTML, CSS, JavaScript, Vue.js, Nuxt.js, Pinia, Vuetify.
+* Wrote unit tests for the components using AVA testing library.
